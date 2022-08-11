@@ -66,7 +66,7 @@ if (isset($_SESSION['users'])) {
             <i class="fas fa-lock"></i>
             <input type="password" name="rpassword" placeholder="Re-Enter Password" />
           </div>
-          <input type="submit" name="signup" class="btn" value="Sign up" />
+          <input type="submit" name="submit" class="btn" value="Sign up" />
           <p class="social-text">Or Sign up with social platforms</p>
           <div class="social-media">
             <a href="#" class="social-icon">
